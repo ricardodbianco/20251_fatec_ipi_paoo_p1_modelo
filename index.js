@@ -1,7 +1,8 @@
 import PromptSync from 'prompt-sync'
 import axios from 'axios'
 
-const appid = '23d67128329d0ba67ca239334e62ca77'
+// Ocultei Openweatherapi key
+const appid = process.env.OPENWEATHER_API_KEY;
 
 const prompt = PromptSync()
 const cidade = prompt('Digite uma cidade para ver as coordenadas: ')
