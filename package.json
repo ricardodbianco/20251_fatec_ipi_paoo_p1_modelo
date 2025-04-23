@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@google/genai": "^0.9.0",
     "axios": "^1.6.0",
     "prompt-sync": "^4.2.0"
   }
