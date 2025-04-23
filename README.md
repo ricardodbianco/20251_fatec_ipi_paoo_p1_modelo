@@ -2,8 +2,8 @@
 
    | Nome completo            | RA          |
    |--------------------------|-------------|
-   |Ricardo Del Bianco        |2040482322018|
    |Lucas Ferreira Ramos      |             |
+   |Ricardo Del Bianco        |2040482322018|
    |                          |             |
    |                          |             |
 
